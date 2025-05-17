@@ -1,0 +1,13 @@
+{
+  "description": "sad撒上的",
+  "sub_templates": {
+    "asd": {
+      "template": "{question}",
+      "description": "asd",
+      "parameters": [
+        "question"
+      ],
+      "order": 1
+    }
+  }
+}
